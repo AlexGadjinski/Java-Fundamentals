@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.1. Basic Syntax, Conditional Statements and Loops/1.1. Basic Syntax, Conditional Statements and Loops.iml" filepath="$PROJECT_DIR$/1.1. Basic Syntax, Conditional Statements and Loops/1.1. Basic Syntax, Conditional Statements and Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.2. Exercise - Basic Syntax, Conditional Statements and Loops/1.2. Exercise - Basic Syntax, Conditional Statements and Loops.iml" filepath="$PROJECT_DIR$/1.2. Exercise - Basic Syntax, Conditional Statements and Loops/1.2. Exercise - Basic Syntax, Conditional Statements and Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.3. More Exercise - Basic Syntax, Conditional Statements and Loops/1.3. More Exercise - Basic Syntax, Conditional Statements and Loops.iml" filepath="$PROJECT_DIR$/1.3. More Exercise - Basic Syntax, Conditional Statements and Loops/1.3. More Exercise - Basic Syntax, Conditional Statements and Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.1. Regular Expressions/10.1. Regular Expressions.iml" filepath="$PROJECT_DIR$/10.1. Regular Expressions/10.1. Regular Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.2. Exercise - Regular Expressions/10.2. Exercise - Regular Expressions.iml" filepath="$PROJECT_DIR$/10.2. Exercise - Regular Expressions/10.2. Exercise - Regular Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.3. More Exercise - Regular Expressions/10.3. More Exercise - Regular Expressions.iml" filepath="$PROJECT_DIR$/10.3. More Exercise - Regular Expressions/10.3. More Exercise - Regular Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11. Regular Final Exam/11. Regular Final Exam.iml" filepath="$PROJECT_DIR$/11. Regular Final Exam/11. Regular Final Exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.1. Data Types and Variables/2.1. Data Types and Variables.iml" filepath="$PROJECT_DIR$/2.1. Data Types and Variables/2.1. Data Types and Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.2. Exercise - Data Types and Variables/2.2. Exercise - Data Types and Variables.iml" filepath="$PROJECT_DIR$/2.2. Exercise - Data Types and Variables/2.2. Exercise - Data Types and Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.3. More Exercise - Data Types and Variables/2.3. More Exercise - Data Types and Variables.iml" filepath="$PROJECT_DIR$/2.3. More Exercise - Data Types and Variables/2.3. More Exercise - Data Types and Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.1. Arrays/3.1. Arrays.iml" filepath="$PROJECT_DIR$/3.1. Arrays/3.1. Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.2. Exercise - Arrays/3.2. Exercise - Arrays.iml" filepath="$PROJECT_DIR$/3.2. Exercise - Arrays/3.2. Exercise - Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.3. More Exercise - Arrays/3.3. More Exercise - Arrays.iml" filepath="$PROJECT_DIR$/3.3. More Exercise - Arrays/3.3. More Exercise - Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.1. Methods/4.1. Methods.iml" filepath="$PROJECT_DIR$/4.1. Methods/4.1. Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.2. Exercise - Methods/4.2. Exercise - Methods.iml" filepath="$PROJECT_DIR$/4.2. Exercise - Methods/4.2. Exercise - Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.3. More Exercise - Methods/4.3. More Exercise - Methods.iml" filepath="$PROJECT_DIR$/4.3. More Exercise - Methods/4.3. More Exercise - Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.1. List/5.1. List.iml" filepath="$PROJECT_DIR$/5.1. List/5.1. List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.2. Exercise - List/5.2. Exercise - List.iml" filepath="$PROJECT_DIR$/5.2. Exercise - List/5.2. Exercise - List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.3. More Exercise - List/5.3. More Exercise - List.iml" filepath="$PROJECT_DIR$/5.3. More Exercise - List/5.3. More Exercise - List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6. MidExam/6. MidExam.iml" filepath="$PROJECT_DIR$/6. MidExam/6. MidExam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.1. Objects and Classes/7.1. Objects and Classes.iml" filepath="$PROJECT_DIR$/7.1. Objects and Classes/7.1. Objects and Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.2. Exercise - Objects and Classes/7.2. Exercise - Objects and Classes.iml" filepath="$PROJECT_DIR$/7.2. Exercise - Objects and Classes/7.2. Exercise - Objects and Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.3. More Exercise - Objects and Classes/7.3. More Exercise - Objects and Classes.iml" filepath="$PROJECT_DIR$/7.3. More Exercise - Objects and Classes/7.3. More Exercise - Objects and Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.1. Associative Arrays/8.1. Associative Arrays.iml" filepath="$PROJECT_DIR$/8.1. Associative Arrays/8.1. Associative Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.2. Exercise - Associative Arrays/8.2. Exercise - Associative Arrays.iml" filepath="$PROJECT_DIR$/8.2. Exercise - Associative Arrays/8.2. Exercise - Associative Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.3. More Exercise - Associative Arrays/8.3. More Exercise - Associative Arrays.iml" filepath="$PROJECT_DIR$/8.3. More Exercise - Associative Arrays/8.3. More Exercise - Associative Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9.1. Text Processing/9.1. Text Processing.iml" filepath="$PROJECT_DIR$/9.1. Text Processing/9.1. Text Processing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9.2. Exercise - Text Processing/9.2. Exercise - Text Processing.iml" filepath="$PROJECT_DIR$/9.2. Exercise - Text Processing/9.2. Exercise - Text Processing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9.3. More Exercise - Text Processing/9.3. More Exercise - Text Processing.iml" filepath="$PROJECT_DIR$/9.3. More Exercise - Text Processing/9.3. More Exercise - Text Processing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Fundamentals.iml" filepath="$PROJECT_DIR$/.idea/Java-Fundamentals.iml" />
+    </modules>
+  </component>
+</project>
